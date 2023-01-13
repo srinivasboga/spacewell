@@ -171,6 +171,4 @@ public class TennisGameTest {
         }
         Assertions.assertEquals("Fifteen Thirty", underTest.getScore());
     }
-
-
 }
