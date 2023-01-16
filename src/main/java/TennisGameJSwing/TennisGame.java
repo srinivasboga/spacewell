@@ -96,7 +96,10 @@ public class TennisGame {
 				"Player1 =" + getScoreName(player1Score) + "\nPlayer2 =" + getScoreName(player2Score));
 		// JOptionPane.showMessageDialog(null,game.getScore());
 		// System.out.println(game.getScore()); //Fifteen - Fifteen
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'master' of https://github.com/srinivasboga/spacewell.git
 	}
 
 }
